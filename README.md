@@ -1,2 +1,2 @@
-# Proyecto: Tres en Raya multi player
+# Tres en Raya multi player
 
